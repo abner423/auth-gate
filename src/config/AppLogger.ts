@@ -7,6 +7,6 @@ export const logger = pino({
             colorize: true
         }
     },
-    name: 'template_server',
+    name: 'auth_gate_server',
     level: 'debug'
 });
